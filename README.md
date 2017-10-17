@@ -9,9 +9,10 @@ Overview
     Training on a GPU
     
 https://hackernoon.com/deep-learning-cnns-in-tensorflow-with-gpus-cba6efe0acc2
-![cpu](https://user-images.githubusercontent.com/24354945/31680579-620d5dfe-b392-11e7-8d58-4a3f1ebbb48f.PNG)
 
 I trained the model on my CPU i5-4440 (3.10 GHz default clock speeds)
+![cpu](https://user-images.githubusercontent.com/24354945/31680579-620d5dfe-b392-11e7-8d58-4a3f1ebbb48f.PNG)
+
 The image below shows that the training (with CPU) started at 12:22:28
 ![cpu training started](https://user-images.githubusercontent.com/24354945/31680578-61cb6ae8-b392-11e7-90c5-a0a2f323e113.PNG)
 
